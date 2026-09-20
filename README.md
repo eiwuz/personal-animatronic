@@ -39,7 +39,7 @@ Distance data is also logged to serial monitor for debugging and monitoring.
 | Speaker | 9 | Output |
 
 ## Demo
-https://youtube.com/shorts/va8U9mTmQeQ
+https://youtube.com/shorts/JLoOLTgrmnQ
 
 Note: The video shows the proximity-based motor control. The Morse code audio feature (plays "HI" when object is very close) is functional in the code but not clearly audible in the demo video due to speaker limitations.
 
